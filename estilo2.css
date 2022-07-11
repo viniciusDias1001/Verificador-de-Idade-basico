@@ -1,0 +1,46 @@
+body{
+background-color: rgb(65, 65, 230);
+font: normal 15pt Courier, monospace;
+}
+header{
+    text-align: center;
+    color: white;
+    
+}
+section{
+ background-color: white;
+ border-radius: 10px;
+ line-height: 200px;
+ padding: 15px;
+ width: 350px;
+ margin: auto;
+ text-align: center;
+ box-shadow: 5px 5px 10px rgb(29, 28, 28);
+ font: normal 12pt Arial;
+}
+
+input{
+    
+    padding: 1px;
+    
+
+}
+
+footer{
+    
+
+    font: normal 15pt American Typewriter, serif;
+    color: white;
+    text-align: center;
+   
+
+}
+div{
+    text-align: center;
+    padding: 10px;
+
+}
+
+
+
+
